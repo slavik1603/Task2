@@ -1,0 +1,13 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.column {
+  display: flex;
+  justify-content: space-around;
+}
+
+.small {
+  font-size: 12px;
+}
